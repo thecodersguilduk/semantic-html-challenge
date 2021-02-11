@@ -5,6 +5,7 @@ body {
 }
 
 table.a {
+  font-family: Helvetica;
   table-layout: auto;
   width: 100%;  
 }
