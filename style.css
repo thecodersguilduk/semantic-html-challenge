@@ -1,13 +1,7 @@
 /* CSS files add styling rules to your content */
 
 body {
-  font-family: "Helvetica Neu", "Rock Salt";
   margin: 2em;
-}
-
-h1 {
-  font-style: italic;
-  color: #373fff;
 }
 
 table.a {
@@ -17,10 +11,17 @@ table.a {
 
 table {border: none;}
 
-thead,
-tfoot {
-    background-color: #070808;
-    color: #fff;
+thead{
+  font-family: 'Rock Salt', cursive;
+  color: white;
+  background: url("/assets/leopardskin.jpg");
+}
+
+tfoot{
+  font-family: 'Rock Salt', cursive;
+  color: white;
+  background: url("/assets/leopardskin.jpg");
+  margin: 2em;
 }
 
 td {
