@@ -2,10 +2,98 @@
 
 body {
   font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
-  margin: 2em;
+  margin: auto;
 }
 
 h1 {
   font-style: italic;
-  color: #373fff;
+  color: #103375fb;
+}
+
+table {
+  border: 2px solid #800080;
+  text-align: center;
+  table-layout: fixed;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+caption {
+  text-align: end;
+  padding: 10px;
+  font-family: "Rock Salt", cursive;
+  font-size: 1em;
+  caption-side: bottom;
+}
+
+.header {
+  background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url("assets/leopardskin.jpg");
+  Horrible leopard print yuck
+  background-size: cover;
+  font-family: "Rock Salt", cursive;
+  font-size: 1em;
+  color: #ffffff;
+}
+
+.footer {
+   background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url("assets/leopardskin.jpg");
+  background-size: cover;
+  font-family: "Rock Salt", cursive;
+  font-size: 1em;
+  color: white;
+}
+
+.header td {
+  padding: 20px;
+  border: 3px solid #800080;
+}
+
+.footer td {
+   padding: 20px;
+  border: 3px solid #800080;
+}
+
+.text {
+  text-align: center;
+}
+
+.total {
+  text-align: start;
+}
+
+tbody {
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  text-align: centre;
+}
+
+tbody tr {
+  background-image: url("./assets/noise.png");
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #800080;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #e495e4;
+}
+
+.body td {
+  padding: 10px;
+}
+
+thead tr td:nth-child(1) {
+  width: 30%;
+}
+
+thead tr td:nth-child(2) {
+  width: 20%;
+}
+
+thead tr td:nth-child(3) {
+  width: 20%;
+}
+
+thead tr td:nth-child(4) {
+  width: 40%;
 }
