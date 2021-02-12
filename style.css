@@ -2,7 +2,7 @@
 
 body {
   font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
-  margin: 2em;
+  margin: auto;
 }
 
 h1 {
@@ -27,15 +27,16 @@ caption {
 }
 
 .header {
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url("assets/leopardskin.jpg");
+  background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url("assets/leopardskin.jpg");
+  Horrible leopard print yuck
   background-size: cover;
   font-family: "Rock Salt", cursive;
   font-size: 1em;
-  color: white;
+  color: #ffffff;
 }
 
 .footer {
-   background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url("assets/leopardskin.jpg");
+   background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url("assets/leopardskin.jpg");
   background-size: cover;
   font-family: "Rock Salt", cursive;
   font-size: 1em;
@@ -70,7 +71,7 @@ tbody tr {
 }
 
 tbody tr:nth-child(odd) {
-  background-color: #FF33CC;
+  background-color: #800080;
 }
 
 tbody tr:nth-child(even) {
