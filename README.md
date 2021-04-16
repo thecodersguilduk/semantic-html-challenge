@@ -1,33 +1,12 @@
 Semantic HTML challenge
 =================
 
-Your Project
-------------
-
-### ← README.md
-
-That's this file, with instructions about what to do and links for info and hints.
-
-### ← index.html
-
-Where you'll write the content of your website. 
-
-### ← style.css
-
-CSS files add styling rules to your content.
-
-### ← assets
-
-Here is where you will find the images you will need to complete the challenge
-
-
 \ ゜o゜)ノ
 
-HTML/CSS Table Challenge
--------------------------
+HTML/CSS Table
+--------------
 
 HTML/CSS Table Challenge![completed table](https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fimage_0.png?1527761915609)
-
 
 
 # Challenge
