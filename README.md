@@ -8,6 +8,10 @@ HTML/CSS Table
 
 HTML/CSS Table Challenge![completed table](https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fimage_0.png?1527761915609)
 
+# Instructions
+
+clone this repo to your own GitHub or download the images and copy/create an index.html and styles.css on your local machine or a code sharing platform such as codepen.io
+
 
 # Challenge
 
